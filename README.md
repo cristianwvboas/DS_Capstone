@@ -1,2 +1,2 @@
-# DS_Capsone
-Exercises to conclude Applied Data Science Capsone from IBM
+# DS_Capstone
+Exercises to conclude Applied Data Science Capstone from IBM
